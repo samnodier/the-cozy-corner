@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/the-cozy-corner/static/css/main.6d1779b0.css",
-    "main.js": "/the-cozy-corner/static/js/main.413fcb65.js",
+    "main.js": "/the-cozy-corner/static/js/main.fc021efe.js",
     "static/media/logo.svg": "/the-cozy-corner/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/the-cozy-corner/index.html",
     "main.6d1779b0.css.map": "/the-cozy-corner/static/css/main.6d1779b0.css.map",
-    "main.413fcb65.js.map": "/the-cozy-corner/static/js/main.413fcb65.js.map"
+    "main.fc021efe.js.map": "/the-cozy-corner/static/js/main.fc021efe.js.map"
   },
   "entrypoints": [
     "static/css/main.6d1779b0.css",
-    "static/js/main.413fcb65.js"
+    "static/js/main.fc021efe.js"
   ]
 }
