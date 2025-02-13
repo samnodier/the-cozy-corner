@@ -1,3 +1,5 @@
+/* @import "tailwindcss"; */
+
 .App {
   text-align: center;
 }
@@ -29,4 +31,38 @@ a {
 
 .App-link {
   color: #61dafb;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 20px 5rem;
+}
+
+.grid {
+display: grid;
+grid-template-columns: auto auto auto;
+}
+
+.bg-white {
+  background: #f0f0f0;
+  margin: 10px 5px;
+  border-radius: 10px;
+  padding: 20px 5px;
+}
+
+input {
+  padding: 5px 5px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+.object-cover {
+
+  width: 100px;
+}
+
+@media screen and (max-width: 600px) {
+  .grid {
+    grid-template-columns: auto auto;
+  }
 }
